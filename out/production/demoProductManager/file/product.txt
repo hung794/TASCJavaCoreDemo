@@ -1,0 +1,3 @@
+1 - Hung1 - Hung1 - Hung1 - 150000
+3 - Hung2 - Hung2 - Hung1 - 150000
+4 - Hung - Lan - Lan - 13000
